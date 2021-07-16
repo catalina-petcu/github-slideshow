@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our GitHub Slide slide!"
 ---
-Casablanca
+This is a slide
 Use the left arrow to go back!
